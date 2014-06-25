@@ -37,7 +37,7 @@ Project Twitter APIs to login using Oauth. After login it calls the APIs to get 
 Gif Image
 
 
-![Alt Text](Twitter client.gif)
+![Alt Text](Twitter%20Client.gif)
 
 CodePath HW1 Rotten Tomatoes Due: June 10. 2014 10pm
 
